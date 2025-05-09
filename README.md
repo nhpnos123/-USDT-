@@ -34,5 +34,7 @@ Route::get('foxupay/return_url', 'FoxupayController@returnUrl')->name('foxupay-r
 第三步：在独角数卡后台菜单 【配置】-【支付配置】-右上角新增，按照图片 dujiaoka-foxupay.jpg 所示进行填写
 （填写之前需要先下载Foxupay APP，进行注册，获取需要填写的参数
 APP下载链接https://foxupay.com/foxupay-app-download/）
+![image](https://github.com/user-attachments/assets/bb71efaa-34b7-45e1-a2aa-3a674b63de85)
+
 
 以上信息都可以在代码中获得
